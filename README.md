@@ -1,1 +1,1 @@
-# ad-portfolio Plugin
+# add-portfolio wp Plugin
